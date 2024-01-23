@@ -1,0 +1,124 @@
+repo_name: robert5313/qrcode
+report_id: cc4a6a186175cabe883835c447c7c858
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T17:43:17+00:00'
+requested_by: Robertkimaiyo
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/robert5313/qrcode
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 11:06:59.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/robert5313/qrcode
+  detection_source: Repo Metadata
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 11:00:36.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 09:40:13.000000000 Z
+- name: qrcode
+  website_url: http://goqr.me/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8580/no-img-open-source.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 09:40:13.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 11:06:59.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 09:40:13.000000000 Z
+- name: qrcode
+  description: QRCode / 2d Barcode api with both server side and client side support
+    using canvas
+  package_url: https://www.npmjs.com/qrcode
+  version: 1.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/robert5313/qrcode/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Robertkimaiyo
+  last_updated_on: 2023-11-18 09:40:13.000000000 Z
